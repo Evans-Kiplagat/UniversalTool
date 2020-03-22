@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418317275230",
+    "firebase_url": "https://universaltool-f816d.firebaseio.com",
+    "project_id": "universaltool-f816d",
+    "storage_bucket": "universaltool-f816d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418317275230:android:83843a6bad34b5b43764cf",
+        "android_client_info": {
+          "package_name": "com.example.universaltool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418317275230-qp0fql081f3id3mekd6etlge97igi9qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.universaltool",
+            "certificate_hash": "7789fd0c571512ff554bf04e59cda3a9a2544bd2"
+          }
+        },
+        {
+          "client_id": "418317275230-fs74jkv7vrhtlkkr2bs177q15bkih5vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm8GxcphN2iB4AqEqosxGKnA_RA59C-rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418317275230-fs74jkv7vrhtlkkr2bs177q15bkih5vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
